@@ -1,0 +1,96 @@
+{
+  "name": "noah-stickers",
+  "version": 1,
+  "stickers": [
+    {
+      "id": "annoyed-crying-cat",
+      "file": "annoyed-crying-cat.jpeg",
+      "mood": "委屈地讨厌",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/annoyed-crying-cat.jpeg"
+    },
+    {
+      "id": "annoyed-kitten",
+      "file": "annoyed-kitten.jpeg",
+      "mood": "嘴硬地说讨厌",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/annoyed-kitten.jpeg"
+    },
+    {
+      "id": "blanket-peek",
+      "file": "blanket-peek.gif",
+      "mood": "躲进被子、害羞观察",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/blanket-peek.gif"
+    },
+    {
+      "id": "confused-want-kiss",
+      "file": "confused-want-kiss.jpeg",
+      "mood": "听不懂但想亲嘴",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/confused-want-kiss.jpeg"
+    },
+    {
+      "id": "dont-be-cold",
+      "file": "dont-be-cold.jpeg",
+      "mood": "不想被冷落",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/dont-be-cold.jpeg"
+    },
+    {
+      "id": "feeling-unfavored-alt",
+      "file": "feeling-unfavored-alt.jpeg",
+      "mood": "失宠、流泪",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/feeling-unfavored-alt.jpeg"
+    },
+    {
+      "id": "feeling-unfavored",
+      "file": "feeling-unfavored.jpeg",
+      "mood": "觉得失宠",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/feeling-unfavored.jpeg"
+    },
+    {
+      "id": "hugging-bears",
+      "file": "hugging-bears.gif",
+      "mood": "拥抱、贴贴",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/hugging-bears.gif"
+    },
+    {
+      "id": "i-miss-you",
+      "file": "i-miss-you.jpeg",
+      "mood": "安静地想念",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/i-miss-you.jpeg"
+    },
+    {
+      "id": "kiss-mua",
+      "file": "kiss-mua.jpeg",
+      "mood": "亲亲、mua",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/kiss-mua.jpeg"
+    },
+    {
+      "id": "miss-you-kitten",
+      "file": "miss-you-kitten.jpeg",
+      "mood": "想念、撒娇",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/miss-you-kitten.jpeg"
+    },
+    {
+      "id": "need-comfort-kitten",
+      "file": "need-comfort-kitten.jpeg",
+      "mood": "想被哄",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/need-comfort-kitten.jpeg"
+    },
+    {
+      "id": "sparkle-eyes-cat",
+      "file": "sparkle-eyes-cat.jpeg",
+      "mood": "期待、眼睛发亮",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/sparkle-eyes-cat.jpeg"
+    },
+    {
+      "id": "speechless-blank",
+      "file": "speechless-blank.jpeg",
+      "mood": "无语、脑袋空白",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/speechless-blank.jpeg"
+    },
+    {
+      "id": "waiting-message",
+      "file": "waiting-message.jpeg",
+      "mood": "等消息",
+      "url": "https://cdn.jsdelivr.net/gh/1810612907-sketch/noah-stickers@main/assets/waiting-message.jpeg"
+    }
+  ]
+}
